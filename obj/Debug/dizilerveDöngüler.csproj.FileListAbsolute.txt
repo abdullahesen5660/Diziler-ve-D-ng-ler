@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\dizilerveDöngüler\dizilerveDöngüler\bin\Debug\dizilerveDöngüler.exe.config
+C:\Users\Abdul\Desktop\dizilerveDöngüler\dizilerveDöngüler\bin\Debug\dizilerveDöngüler.exe
+C:\Users\Abdul\Desktop\dizilerveDöngüler\dizilerveDöngüler\bin\Debug\dizilerveDöngüler.pdb
+C:\Users\Abdul\Desktop\dizilerveDöngüler\dizilerveDöngüler\obj\Debug\dizilerveDöngüler.csproj.AssemblyReference.cache
+C:\Users\Abdul\Desktop\dizilerveDöngüler\dizilerveDöngüler\obj\Debug\dizilerveDöngüler.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\dizilerveDöngüler\dizilerveDöngüler\obj\Debug\dizilerveDöngüler.exe
+C:\Users\Abdul\Desktop\dizilerveDöngüler\dizilerveDöngüler\obj\Debug\dizilerveDöngüler.pdb
